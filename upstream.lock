@@ -1,4 +1,4 @@
-firefox_version = "153.6.0esr"
-commit          = "a34c4160e3f75ab9918fbe4669ff7ae56f1977c8"
+firefox_version = "153.8.0esr"
+commit          = "7a005ddca7c1e2b14706aca399520a822055164a"
 tarball_url     = ""
 tarball_sha256  = ""
